@@ -20,7 +20,7 @@ Installation
 Step 1: Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/invoice-extractor.git
+git clone https://github.com/Shanu171/Multilanguage_invoice_extractor.git
 cd invoice-extractor
 Step 2: Install Dependencies
 Use the following command to install the required dependencies:
@@ -97,9 +97,6 @@ Parameters:
 question: (string) The question you want to ask about the uploaded invoice.
 Contributing
 Feel free to fork the repository, submit issues, or create pull requests. If you are contributing, please ensure your code follows the existing style and includes tests where applicable.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 Google Gemini API: For providing the language model that powers the Q&A functionality.
